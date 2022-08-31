@@ -6,5 +6,5 @@ My name is Ildar and i'm dotnet/C# enthusiast. I do a lot of things, may be some
 <p>
   <img alt="C #" src="https://img.shields.io/badge/C%23-9d18db?logo=Sharp&logoColor=white&style=for-the-badge" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-9d18db?logo=.NET&logoColor=white&style=for-the-badge" />
-  <img alt="Java" src="https://img.shields.io/badge/.NET-9d18db?logo=Java&logoColor=white&style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-9d18db?logo=OpenJDK&logoColor=white&style=for-the-badge" />
 </p>
