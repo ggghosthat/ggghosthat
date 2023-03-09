@@ -1,6 +1,6 @@
 ### Welcome to my Github page! 👋
 
-Hello, glad to see you.\n My name is Ildar and i'm dotnet/C# enthusiast. I do a lot of things, may be some of them will interest you. ✌️
+Hello, glad to see you.\n My name is Ildar and i'm dotnet/C# enthusiast and poor student. I do a lot of things, may be some of them will interest you. ✌️
 
 ### About skills:
 <p>
