@@ -2,7 +2,9 @@
 
 Hello, glad to see you.
 
-I'am Ildar. Also I'am dotnet/C# enthusiast and poor student. I do a lot of things, may be some of them will interest you. ✌️
+I'am Ildar. Also I'am dotnet/C# enthusiast and poor student.
+
+I do a lot of things, may be some of them will interest you. ✌️
 
 ### About skills:
 <p>
