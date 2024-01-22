@@ -3,8 +3,11 @@
 Hello, glad to see you.
 
 I'am Ildar and dotnet/C# backend software enginer. 
+
 Love integrate and use new concept and algorithms for the best performance.
+
 Love ❤️ discover new thingsin the world 🌎.
+
 I do a lot of things, may be some of them will interest you. ✌️
 
 
