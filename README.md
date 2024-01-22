@@ -1,9 +1,9 @@
-### Welcome to my Github page! 👋 \n
-Hello, glad to see you.
-I'am Ildar and dotnet/C# backend software enginer. 
-Love integrate and use new concept and algorithms for the best performance.
-Love ❤️ discover new thingsin the world. 🌎
-I do a lot of things, may be some of them will interest you. ✌️
+### Welcome to my Github page! 👋 <br>
+Hello, glad to see you. <br>
+I'am Ildar and dotnet/C# backend software enginer. <br>
+Love integrate and use new concept and algorithms for the best performance. <br>
+Love ❤️ discover new thingsin the world. 🌎<br>
+I do a lot of things, may be some of them will interest you. ✌️<br>
 
 ### About skills:
 <p>
