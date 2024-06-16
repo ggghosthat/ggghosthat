@@ -1,6 +1,6 @@
 ### Welcome to my Github page! 👋 <br>
 Hello, glad to see you. <br>
-I'am Ildar, .NET/C# enthusiast. <br>
+I'am Ildar, Software Engineer. <br>
 Love integrate and use new concept and algorithms for the best performance. <br>
 Love ❤️ discover new things in the world. 🌎<br>
 I do a lot of things, may be some of them will interest you. ✌️<br>
