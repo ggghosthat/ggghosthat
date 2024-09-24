@@ -14,5 +14,6 @@ I do a lot of things, may be some of them will interest you. ✌️<br>
 </p>
 
 ### Contact information
-[Email](mailto:IldarKarachai@outlook.com)
-[LinkedIn](https://www.linkedin.com/in/ildar-karachai-1b8844243/)
+[**Email**](mailto:IldarKarachai@outlook.com)
+
+[**LinkedIn**](https://www.linkedin.com/in/ildar-karachai-1b8844243/)
